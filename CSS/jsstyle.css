@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: lightblue;
+    line-height: 30px;
+
+}
+
+div.wadah{
+    background-color: blue;
+    width: 30%;
+    height: 580px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 3px outset crimson;
+}
+
+h1{
+    font-size: 25px;
+}
+p1{
+    font-size: 18px;
+}
