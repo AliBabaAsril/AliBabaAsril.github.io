@@ -1,0 +1,51 @@
+body{
+    background-color: lightblue;
+}
+.frmIsi{
+    
+    background-color: whitesmoke;
+    width: 500px;
+    height: 350px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border: red inset;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin-left: 30px;
+    padding: 5spx;
+}
+
+table{
+    
+    font: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}label {
+    width: 150px; 
+    float: left; 
+    margin-top: 3px; 
+    display: inline-block;
+}.tabel th {
+    background-color: #0487e2;
+    padding: 5px 15px;
+    text-align: center;
+}
+.tabel td {
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.tabel tr:nth-child(odd){
+    background-color: #ffffff;
+}
+
+.tabel tr:nth-child(even){
+    background-color: #0487e2;
+}
