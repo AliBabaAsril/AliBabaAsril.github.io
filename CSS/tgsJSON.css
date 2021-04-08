@@ -1,0 +1,28 @@
+body{
+    background-color: darkblue;
+}
+.isi{
+    width: inherit;
+    text-align: center;
+    background-color: lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 30px 40px;
+    font-size: large;
+    border: outset lime 10px;
+}
+.tabel {
+    width: 80%;
+    margin-top: 20px;
+    background-color: lightblue;
+    padding: 15px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border: lightgreen inset 10px;
+    
+}.tabel td {
+    float: left;
+    padding-right: 20px;
+   
+}.tabel tr{
+    margin-top: 20px;
+}
